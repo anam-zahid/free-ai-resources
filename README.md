@@ -18,7 +18,7 @@
 ### FREE MACHINE LEARNING COURSES:
 - Machine Learning by Andrew NG - https://www.coursera.org/learn/machine-learning
 - Intro to ML by Udacity - https://www.udacity.com/course/intro-to-machine-learning--ud120
-- EdX’s Learning from Data(Introductory Machine Learning) - https://www.edx.org/course/learning-from-data-introductory-machine-learning#!
+- EdX’s Learning from Data (Introductory Machine Learning) - https://www.edx.org/course/learning-from-data-introductory-machine-learning#!
 - Introduction to Machine Learning for Coders - http://course18.fast.ai/ml
 - Statistical Machine Learning by CMU - https://www.youtube.com/watch?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE&v=zcMnu-3wkWo
 - Coursera’s Neural Networks for Machine Learning - https://www.youtube.com/watch?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9&v=cbeTc-Urqak
@@ -31,9 +31,10 @@
 - IBM Data Science Professional Certificate - https://www.coursera.org/professional-certificates/ibm-data-science
 
 ### FREE DEEP LEARNING COURSES:
-- Google’s Deep Learning Course- https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187
+- Google’s Deep Learning Course - https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187
 - Practical Deep Learning for Coders - https://course.fast.ai/
 - Deep Learning from the Foundations - https://course.fast.ai/part2
+- Deep Learing (with PyTorch) - https://atcold.github.io/pytorch-Deep-Learning/
 
 ### FREE NLP COURSES:
 - A Code-First Introduction to Natural Language Processing - https://www.fast.ai/2019/07/08/fastai-nlp/
